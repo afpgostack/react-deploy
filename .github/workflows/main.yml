@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  BUCKET: gcs.telzoraalfa.tk
+  BUCKET: gcsreactdeploy.telzoraalfa.tk
 
 jobs:
   build:
